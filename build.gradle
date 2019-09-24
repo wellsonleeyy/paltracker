@@ -21,7 +21,7 @@ plugins {
 }
 
 apply plugin: 'org.springframework.boot'
-version ='1.1.1-snapshot'
+//version ='1.1.1-snapshot'
 group= 'io.pivotal.pal.tracker'
 repositories {
     mavenCentral()
